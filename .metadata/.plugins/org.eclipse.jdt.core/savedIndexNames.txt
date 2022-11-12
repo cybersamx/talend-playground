@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+/Users/schow/src/talend/talend-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1806999207.index
+145157541.index
+409489365.index
+1068017281.index
+291995147.index
+921207265.index
+3726254578.index
+1679933824.index
+1514453938.index
+77386124.index
+2080036696.index
+3028780878.index

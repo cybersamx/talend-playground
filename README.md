@@ -8,26 +8,13 @@ This is my playground for learning Talend Open Studio, an open-source version of
 
 1. Download Talend Open Studio from [here](https://www.talend.com/products/talend-open-studio/).
 1. Install Talend on your local machine.
-1. Once it's installed, you can navigate to the application root directory, which we will refer to as `TALEND_ROOT_DIR`.
+1. Clone this repo.
 
-  ```bash
-  $ cd "${TALEND_ROOT_DIR}"
-  $ ls -l
-  ...
-  p2
-  plugins
-  workspace
-  ```
-
-1. The subdirectory `workspace` is where Talend Studio saves its projects.
-1. Clone this repo in the workspace.
-
-   ```bash
-   $ cd workspace
-   $ git clone git@github.com:cybersamx/talend-playground.git
+   ```shell
+   $ git clone git@github.com:cybersamx/talend-workspace.git
    ```
 
-1. Launch Talend Open Studio, you should now see TALEND_PLAYGROUND as a project. Open it. If you don't see it, you can select Import to import the project.
+1. Once it's installed, change the Workspace to the directory where the repo is cloned.
 
 ### Local Repo Setup
 

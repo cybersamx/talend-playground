@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_QzOuAGJmEe2Ykpgq8GdtPg" id="_QzLqsGJmEe2Ykpgq8GdtPg" label="text_to_postgres" purpose="Load data to postgres" version="0.1" statusCode="" item="_QzOuAmJmEe2Ykpgq8GdtPg" displayName="text_to_postgres">
+    <author href="../talend.project#_94Rf4GJlEe2Ykpgq8GdtPg"/>
+    <additionalProperties xmi:id="_QzRxUGJmEe2Ykpgq8GdtPg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_QzRxUWJmEe2Ykpgq8GdtPg" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_QzRxUmJmEe2Ykpgq8GdtPg" key="created_date" value="2022-11-12T00:44:47.205-0800"/>
+    <additionalProperties xmi:id="_QzRxU2JmEe2Ykpgq8GdtPg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_QzRxVGJmEe2Ykpgq8GdtPg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_QzRxVWJmEe2Ykpgq8GdtPg" key="modified_date" value="2022-11-12T00:44:47.572-0800"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_QzOuAWJmEe2Ykpgq8GdtPg" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_QzOuAmJmEe2Ykpgq8GdtPg" property="_QzOuAGJmEe2Ykpgq8GdtPg" state="_QzOuAWJmEe2Ykpgq8GdtPg">
+    <process href="text_to_postgres_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
